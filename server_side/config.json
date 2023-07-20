@@ -1,0 +1,4 @@
+{
+    "logs_path": "server_side/logs",
+    "max_logs_size": 1000000000
+}

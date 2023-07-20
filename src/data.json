@@ -1,0 +1,8 @@
+{
+    "modelName": "best.onnx",
+    "modelWidth": 640,
+    "modelHeight": 640,
+    "min_probability": 0.50,
+    "timeout": 50,
+    "device": "phone"
+  }
